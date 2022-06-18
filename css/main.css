@@ -147,8 +147,8 @@ span {
   align-items: center;
   justify-content: space-between;
   flex-direction: row;
-  background: rgba(105, 105, 105, 1);
-  /*background-color: #4516d8;*/
+  *background: rgb(73, 1, 64)*;
+  /background-color: #4516d8;/
 }
 
 .header-bar .nome {
